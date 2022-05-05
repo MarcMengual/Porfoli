@@ -11,7 +11,7 @@ En aquesta Unitat Formativa hem desenvolupat les seguents **practiques** sobre m
 - [MostrarTaulesMultiplicar](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/Exercicis_metodes/MostrarTaulesMultiplicar.java)
 - [VectorsAleatoris](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/Exercicis_metodes/VectorsAleatoris.java)
 - [Penjat](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/Exercicis_metodes/penjat.java)
-- **IEjercicisOrdenacio**
+**EjercicisOrdenacio**
 - [DemanarPaisos](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/exercicis_Inici_m02/Ex04.java)
 - [OrdenarPaisos](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/exercicis_Inici_m02/Ex1.java)
 - [OrdenarTemperatures](https://github.com/MarcMengual/Porfoli/blob/main/Moduls/M03/UF2/exercicis_Inici_m02/Ex2.java)
